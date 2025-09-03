@@ -90,6 +90,8 @@ holberton-help/
 | validated | JSON | validated projects |
 | badges | INT | number of badges |
 | jolt\_points | INT | points accumulated |
+| jolt\_url | TEXT | direct URL to Jolt profile |
+| slack\_url | TEXT | direct URL to Slack profile |
 
 **Table** problems:
 | field | type | description |
