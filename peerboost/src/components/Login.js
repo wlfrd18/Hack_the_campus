@@ -32,12 +32,12 @@ export default function LandingLogin({ onLogin }) {
         backgroundRepeat: "no-repeat",
       }}
     >
-        {/* Overlay pour lisibilité */}
-        <div className="flex-1 bg-black bg-opacity-50 flex flex-col lg:flex-row">
+      {/* Overlay pour lisibilité */}
+      <div className="flex-1 bg-black bg-opacity-50 flex flex-col lg:flex-row">
         {/* Section description du projet */}
         <div className="flex-1 text-white p-8 flex flex-col justify-center items-center lg:items-start">
-            <img src="/holberton.png" alt="Holberton Logo" className="h-20 mb-6" />
-            <h1 className="text-4xl font-bold mb-4 text-center lg:text-left text-red-500">PeerBoost</h1>
+          <img src="/holberton.png" alt="Holberton Logo" className="h-20 mb-6" />
+          <h1 className="text-4xl font-bold mb-4 text-center lg:text-left">PeerBoost</h1>
             <p className="mb-4 text-center lg:text-left max-w-md">
             PeerBoost est une plateforme qui transforme l’entraide entre étudiants en une expérience interactive et motivante. Signalez vos blocages sur vos projets Holberton et recevez de l’aide en temps réel de vos pairs.
             </p>
@@ -48,8 +48,6 @@ export default function LandingLogin({ onLogin }) {
             Grâce à une interface simple et intuitive, vous pouvez facilement trouver de l’aide, aider vos camarades, et progresser ensemble. L’apprentissage par entraide n’a jamais été aussi engageant !
             </p>
         </div>
-        </div>
-
 
         {/* Section login */}
         <div className="flex-1 flex justify-center items-center p-8">
