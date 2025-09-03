@@ -26,6 +26,10 @@ But sometimes:
 
 	4.Validate the help received → the helper earns a badge and Jolt points.
 
+	5.Go to the current project on the intranet Holberton
+
+	6.Go to the page jolt page of holbies
+
 ## 🔑 Key Features
 
 * "I'm stuck" form (project + description).
