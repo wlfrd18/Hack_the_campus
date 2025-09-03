@@ -50,6 +50,10 @@ But sometimes:
 
 	* Slack (redirect via slack://user?... links)
 
+	* Jolt
+
+	* Holberton intranet
+
 ## 📂 Project architecture
 ```
 holberton-help/
@@ -71,7 +75,7 @@ holberton-help/
 ├─ README.md
 └─ .gitignore
 ```
-## ��️ Data Schema
+## 🗄️ Data Schema
 
 **Table** users:
 | field | type | description |
