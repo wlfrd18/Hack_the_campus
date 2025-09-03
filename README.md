@@ -160,11 +160,11 @@ Output:
 
 ## 🌐 Rapid deployment
 
-* Backend: Heroku or Render
+* Backend: Render
 
-* Frontend: Vercel or Netlify
+* Frontend: Vercel
 
-* Database: SQLite (local) or Firebase (cloud ready)
+* Database: SQLite
 
 ## 🚧 Limits & developments
 
