@@ -47,7 +47,7 @@ export default function App() {
         <nav className="flex gap-4 text-gray-700 items-center">
           {/* Bouton Intranet */}
           <a
-            href="https://intranet.hbtn.io/"
+            href="https://intranet.hbtn.io/projects/current"
             target="_blank"
             rel="noreferrer"
             className="flex items-center"
