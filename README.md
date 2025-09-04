@@ -42,6 +42,10 @@ But sometimes:
 
 * Dashboard with leaderboard of the best helpers.
 
+* Go to the current project on the intranet Holberton.
+
+* Go to the page jolt page of holbies.
+
 ## 🛠️ Technology Stack
 
 * Frontend: React + TailwindCSS
